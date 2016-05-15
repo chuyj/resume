@@ -7,7 +7,7 @@ require_once "header.php";
 			<div class="row">
 				<div class="col-lg-4 col-sm-4 col-xs-12">
 					<div class="align-left" style="width:100%">
-						<a href="https://www.facebook.com/roger9chu" class="thumbnail"><img src="./images/profile_pic.jpg"></a>
+						<?php require_once "imgswap.php";?>
 					</div>
 				</div>
 				<div class="col-lg-6 col-sm-8 col-xs-12">
@@ -72,7 +72,10 @@ require_once "header.php";
 								<p>TOEIC score: 955/990</p>
 							</div>
 							<div class="col-md-3 col-sm-4">
-							      <img class="media-object" src="./images/TOEIC.JPG" alt="..." style="width:100%">
+								<a href="#" data-toggle="modal" data-target=".pop-up-1">
+							      <img class="media-object" src="./images/TOEIC.JPG" alt="..." style="width:100%"-->
+								</a>
+								<?php require_once "./img_popup.php";?>
 						  </div>
 						  </div>
 						</li>
