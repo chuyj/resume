@@ -39,7 +39,7 @@ require_once "header.php";
 									<p>Sept. 2014 -June. 2018 (expected)</p>
 								</div>
 								<div class="col-md-3 col-xs-6">
-									<a href="http://www.nctu.edu.tw/" class="thumbnail">
+									<a target="blank" href="http://www.cs.nctu.edu.tw/" class="thumbnail">
 										<img src="./images/nctu.gif" alt="nctu" title="National Chiao Tung University">
 									</a>
 								</div>
@@ -89,7 +89,7 @@ require_once "header.php";
 										<p>since Sept. 2014</p>
 									</div>
 									<div class="col-md-3">
-										<a href="http://counsel.sa.nctu.edu.tw/" class="thumbnail">
+										<a target="_blank" href="http://counsel.sa.nctu.edu.tw/?page_id=1091" class="thumbnail">
 											<img src="./images/coun.jpg" alt="nctu" title="NCTU Center of Counseling">
 										</a>
 									</div>
@@ -101,6 +101,17 @@ require_once "header.php";
 								<p>Asist in activities held by Center of Counseling</p>
 							</div>
 						</div>
+						</li>
+						<li class="list-group-item">
+							<div class="row">
+								<div class="col-md-6">
+							<h4>Presentation Skills</h4>
+							<p>Lecturer of NCTUCS Camp</p>
+							<p>Topic: 3D-printing, Sketchup</p>
+								</div>
+								<div class="col-md-6">
+							   </div>
+							</div>
 						</li>
 					</ul>
 				</div>
